@@ -15,7 +15,7 @@ I really enjoy learning Python, R and other tools applied to Data Science, as we
 
 You can check out my LinkedIn profile for further information about my background **[here](https://www.linkedin.com/in/ignacio-siguenza/)** or send me an email directly to **ignacio.siguenzasierra@gmail.com**📩
 
-## Github Status
+## Github Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nachosiguenza)](https://github.com/anuraghazra/github-readme-stats)
 
