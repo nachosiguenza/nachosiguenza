@@ -2,7 +2,7 @@
 # Hi there, I'm Ignacio 👋 Junior Data Scientist
 <br/>
 
-**I'm Ignacio (but you can call me Nacho 😏), a junior Data Scientist starting his journey in the thrilling and dynamic world of analytics!**
+**I'm Ignacio (but you can call me Nacho 😏), an in process Data Scientist starting his journey in the thrilling and dynamic world of analytics!**
 <br />
 I really enjoy learning Python, R and other tools applied to Data Science, as well as tech and improving my communication skills in a more broad sense. 
 <br />
