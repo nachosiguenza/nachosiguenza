@@ -2,6 +2,12 @@
 # Hi there, I'm Ignacio 👋 Junior Data Scientist
 <br/>
 
+<p>
+  <a href="https://www.linkedin.com/ignacio-siguenza/" rel="nofollow noreferrer">
+    <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
+  </a> &nbsp; 
+</p>
+
 **I'm Ignacio (but you can call me Nacho 😏), an in process Data Scientist starting his journey in the thrilling and dynamic world of analytics!**
 <br />
 I really enjoy learning Python, R and other tools applied to Data Science, as well as tech and improving my communication skills in a more broad sense. 
