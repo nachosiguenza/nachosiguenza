@@ -15,9 +15,12 @@ I really enjoy learning Python, R and other tools applied to Data Science, as we
 ## Relevant Information
 
 - 📚 **I’m currently studying my MSc in Data Science at CUNEF (Spain)**
-- 🛠 **Skills-Tools: / R (tidyverse) / Good communication soft skills**
-  - **Python** (pandas, numpy, matplotlib, seaborn, sklearn, tensorflow, ...)
+- 🛠 **Skills-Tools:**
+  - **Python** (pandas, numpy, matplotlib, seaborn, sklearn, tensorflow, APIs, ...)
   - **R** (tidyverse)
+  - **SQL**
+  - **Git + Github** version control system
+  - **ETL** notions
   - Well developed **Soft Skills** (Communication, Decision Making, Problem Solving Skills, Self-Motivation, Creativity, ...) 
 
 You can check out my LinkedIn profile for further information about my background **[here](https://www.linkedin.com/in/ignacio-siguenza/)** or send me an email directly to **ignacio.siguenzasierra@gmail.com**📩
