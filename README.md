@@ -1,12 +1,13 @@
 ![Data Science and Analytics](https://media-exp1.licdn.com/dms/image/C4D16AQGd1z7O6EmLYQ/profile-displaybackgroundimage-shrink_350_1400/0/1615203398954?e=1641427200&v=beta&t=nSifVgTY436bCg-frPjrjfw8zdSHVAMyrK_pdl8bk_Q)
 # Hi there, I'm Ignacio 👋 Junior Data Scientist
-<br/>
-
 <p>
-  <a href="https://www.linkedin.com/ignacio-siguenza/" rel="nofollow noreferrer">
+  <a href="https://www.linkedin.com/in/ignacio-siguenza/" rel="nofollow noreferrer">
     <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
   </a> &nbsp; 
 </p>
+<br/>
+
+
 
 **I'm Ignacio (but you can call me Nacho 😏), an in process Data Scientist starting his journey in the thrilling and dynamic world of analytics!**
 <br />
