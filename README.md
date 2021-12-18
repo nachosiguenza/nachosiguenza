@@ -16,7 +16,7 @@ I really enjoy learning Python, R and other tools applied to Data Science, as we
 
 - 📚 **I’m currently studying my MSc in Data Science at CUNEF (Spain)**
 - 🛠 **Skills-Tools:**
-  - **Python** (pandas, numpy, matplotlib, seaborn, sklearn, tensorflow, APIs, ...)
+  - **Python** (pandas, numpy, matplotlib, seaborn, sklearn (machine learning), tensorflow (NN and deep learning), APIs, ...)
   - **R** (tidyverse)
   - **SQL**
   - **Git + Github** version control system
