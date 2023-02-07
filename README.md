@@ -14,9 +14,10 @@ I really enjoy learning Python, R and other tools applied to Data Science, as we
 
 ## Relevant Information
 
-- 📚 **I’m currently studying my MSc in Data Science at CUNEF (Spain)**
+- 📚 **I’m working as a Data Scientist @ BBVA Holding, developing risk management tools**
 - 🛠 **Skills-Tools:**
   - **Python** (pandas, numpy, matplotlib, seaborn, sklearn (machine learning), tensorflow (NN and deep learning), APIs, ...)
+  - **Distributed toolkit:** (Pyspark, HDFS)
   - **R** (tidyverse)
   - **SQL**
   - **Git + Github** version control system
