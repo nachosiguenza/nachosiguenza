@@ -1,4 +1,3 @@
-![Data Science and Analytics](https://media-exp1.licdn.com/dms/image/C4D16AQGd1z7O6EmLYQ/profile-displaybackgroundimage-shrink_350_1400/0/1615203398954?e=1641427200&v=beta&t=nSifVgTY436bCg-frPjrjfw8zdSHVAMyrK_pdl8bk_Q)
 ## Hi, my name is Ignacio, **Data Scientist/Engineer**
   <a href="https://www.linkedin.com/in/ignacio-siguenza/" rel="nofollow noreferrer">
     <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
