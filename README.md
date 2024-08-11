@@ -1,4 +1,4 @@
-## Hi, I'm Ignacio  <u>Data Scientist/Engineer</u>
+## Hi, I'm Ignacio  <u>Data Scientist/Engineer<u/>
 
 **I'm Ignacio, a Data Scientist with experience in advanced analytics at consultancy and banking sectors**
 
