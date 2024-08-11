@@ -1,6 +1,6 @@
 ## Hi, my name is Ignacio, **Data Scientist/Engineer**
 
-**I'm Ignacio, a Data Scientist with experience in advanced analytics in the consultancy and banking sectors**
+**I'm Ignacio, a Data Scientist with experience in advanced analytics at consultancy and banking sectors**
 
 ## Relevant Information
 
