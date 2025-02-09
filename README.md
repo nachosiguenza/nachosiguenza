@@ -6,7 +6,7 @@
 
 - 📚 **Currenlty working as a Data Scientist @ BBVA Holding**: developing risk management tools and related assets
 - 🛠 **Tech stack:**
-  - **Python** (pandas, pyspark, sklearn (machine learning), deep learning (framework: tensorflow), APIs, ...)
+  - **Python** (pandas, pyspark, sklearn (machine learning), deep learning (framework: tensorflow + keras), APIs, ...)
   - **bash scripting**
   - **R**
   - **SQL**
